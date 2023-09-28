@@ -1,6 +1,6 @@
 # A simple HTML & CSS example
 
-This is a simple example of a showcase website in HTML & CSS. This is the result for [this tutorial]()
+This is a simple example of a showcase website in HTML & CSS.
 
 ## Live demo
 
